@@ -95,3 +95,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+    <img
+    align="left"
+    alt="Github Status"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Rafael-Nobrega019&layout=donut&hide_title=true&langs_count=4&theme=tokyonight">
