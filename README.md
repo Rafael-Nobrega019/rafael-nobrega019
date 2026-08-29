@@ -103,4 +103,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-origi
     alt="Github Status"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Rafael-Nobrega019&layout=donut&hide_title=true&langs_count=4&theme=tokyonight">
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Rafael-Nobrega019&layout=donut&hide_title=true&langs_count=5&theme=tokyonight">
